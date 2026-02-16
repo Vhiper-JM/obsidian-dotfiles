@@ -1,0 +1,20 @@
+{
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}
