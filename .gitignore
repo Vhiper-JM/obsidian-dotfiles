@@ -1,3 +1,7 @@
 # Files I don't want commited
 workspace.json
 graph.json
+community-plugins.json
+
+# Folders I don't want commited
+plugins/
